@@ -1,0 +1,11 @@
+{
+  "name": "Jeux d'automatismes LP",
+  "short_name": "Automatismes",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101b30",
+  "theme_color": "#101b30",
+  "orientation": "landscape",
+  "lang": "fr"
+}
